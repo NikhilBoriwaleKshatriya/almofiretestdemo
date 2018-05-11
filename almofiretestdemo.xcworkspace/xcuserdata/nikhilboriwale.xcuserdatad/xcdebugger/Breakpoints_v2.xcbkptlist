@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "almofiretestdemo/ViewController.swift"
+            timestampString = "541948012.451897"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "almofiretestdemo/ViewController.swift"
+            timestampString = "541948012.45269"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "almofiretestdemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "almofiretestdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhilboriwale/Desktop/URLSEssionJson%20WITHOUT%20MULTIPART%20%20GET%20&amp;%20POST%20Demo/almofiretestdemo/almofiretestdemo/ViewController.swift"
+                  timestampString = "541947880.975275"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "597">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in almofiretestdemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "almofiretestdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhilboriwale/Desktop/URLSEssionJson%20WITHOUT%20MULTIPART%20%20GET%20&amp;%20POST%20Demo/almofiretestdemo/almofiretestdemo/ViewController.swift"
+                  timestampString = "541947880.979418"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
